@@ -28,7 +28,7 @@
 * [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 * [IBM Blockchain 101: Quick-start guide for developers](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html)
 
-## Demos and workshop
+## Demos and Workshop
 * -> Demo: [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 * -> Demo: [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
 * -> Workshop: [Decentralized energy with Hyperledger Composer/](https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/)
