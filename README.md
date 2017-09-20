@@ -25,12 +25,14 @@
 * [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 * [Writing Your First Application against a Hyperledger Fabric network](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
 *  [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
-
-## Developing Blockchain applications with Hyperledger Composer Playground
-* [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
 * [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
-* [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
 * [IBM Blockchain 101: Quick-start guide for developers](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html)
+
+## Demos and workshop
+* -> Demo: [Hyperledger Composer Playground](https://composer-playground.mybluemix.net/login)
+* -> Demo: [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
+* -> Workshop: [Decentralized energy with Hyperledger Composer/](https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/)
+* -> Workshop: [Build a blockchain network](https://developer.ibm.com/code/journey/build-a-blockchain-network/)
 
 ## Blockchain Developer Journeys
 * [Blockchain Developer Journeys](DEVELOPER%20JOURNEYS.md)
