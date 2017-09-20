@@ -33,6 +33,7 @@
 * -> Demo: [Bluedemos: Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
 * -> Workshop: [Decentralized energy with Hyperledger Composer/](https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/)
 * -> Workshop: [Build a blockchain network](https://developer.ibm.com/code/journey/build-a-blockchain-network/)
+* -> Workshop/Demo: [https://hyperledger-fabric.readthedocs.io/en/latest/build_network.html](https://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
 
 ## Blockchain Developer Journeys
 * [Blockchain Developer Journeys](DEVELOPER%20JOURNEYS.md)
